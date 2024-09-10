@@ -1,9 +1,11 @@
-- Hi, I’m Kush Bhardwaj, currently in my 3rd year of engineering.
-- I’m interested in making cool stuff that helps people.
-- I can code in javascript, python and cpp.
-- How to reach me:
-- linkedin: https://www.linkedin.com/in/kush-bhardwaj-196b3b215/
-- twitter/X: https://twitter.com/kucchi09
+      
+    
+ ╱|、
+(˚ˎ 。7  
+ |、˜〵          
+じしˍ,)ノ
+
+yo
   
 
 <!---
