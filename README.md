@@ -6,7 +6,7 @@ im kush bhardwaj. a compsci grad in my 3rd year. i like programming, music and b
 
 other than that:
 - im pupil on codeforces.
-- going deep in reinforcement learning right now.
+- i can just do things.
 - im chronically online and you can find me on [twitter](https://x.com/kucchi09)  (you can reach out to me here)
 - also here's my [linkedin](https://www.linkedin.com/in/kush-bhardwaj-196b3b215/)
  
